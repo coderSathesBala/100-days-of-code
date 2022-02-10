@@ -20,3 +20,27 @@ Continued watching this video and writing code, in order to gain a better unders
 Day 3 #100DaysOfCode 
 
 Continued working on a simple game to continue learning new things!
+
+Day 4 #100daysofcodechallenge 
+
+Continued working on a game project using JavaScript! Enjoying the challenge!
+
+Day 5 #100DaysOfCode 
+
+Last day working on game for fun. It was cool!
+
+Day 6 #100DaysOfCode 
+
+Decided to work on a simple game I'm building, implemented Collision Detection. Did a lot of research on cool websites to see what I want to build next.
+
+Day 7 #100DaysOfCode 
+
+Continued working on a side project. Did a lot of research on what companies are building.
+
+Day 8 #100DaysOfCode 
+Did some research on business models and product understanding, knowledge in those is a big part of coding.
+
+Cool Articles: 
+https://strategyzer.com/expertise/business-models#:~:text=Definition%3A,%2C%20Key%20Partnerships%20%26%20Cost%20Structure
+
+https://uxplanet.org/understanding-product-market-fit-from-start-to-finish-596a4653814
