@@ -44,3 +44,52 @@ Cool Articles:
 https://strategyzer.com/expertise/business-models#:~:text=Definition%3A,%2C%20Key%20Partnerships%20%26%20Cost%20Structure
 
 https://uxplanet.org/understanding-product-market-fit-from-start-to-finish-596a4653814
+
+Day 9 #100DaysOfCode 
+
+Went to @FintechCadence career fair. It was really cool, learned a lot by talking to more experienced people in the industry!
+
+Day 10 #100DaysOfCode 
+
+Started @bruno_simon Three.js course, looking forward to learning how to create 3D environments!
+
+Day 11 #100DaysOfCode 
+
+Spent the day applying for lots of jobs on Angel List, need to create a game plan for applying for jobs!
+
+Day 12 #100DaysOfCode 
+
+Started learning Three.js, it's really awesome to build visual things!
+
+Day 13 #100DaysOfCode 
+
+Continued learning Three.js, can't wait to learn more animation tomorrow! Went to a @VirtualCoffeeIO event, it was nice to meet people in the industry. Ended the day off meeting with a mentor on @ADPList it was great to get a resume review and some advice!
+
+Day 14 #100DaysOfCode 
+
+Continued Three.js course, learned how to move objects and move the camera, very entertaining!
+
+Day 15 #100DaysOfCode 
+
+Continued Three.js course, had a lot of fun animating and visualizing different objects!
+
+Day 16 #100DaysOfCode 
+
+Did some more Three.js work, went to a Tech Talent Canada Virtual Job Fair, ended the day off at a TorontoJS meetup which was really cool!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
