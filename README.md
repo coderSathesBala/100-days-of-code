@@ -2,6 +2,26 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 21 #100DaysOfCode 
+
+Watched @dan_abramov video, it was very interesting and cool to see what happens behind the scenes!
+
+Day 20 #100DaysOfCode 
+
+Continued researching companies, figuring out ways to challenge myself and keep my interest in coding while job searching.
+
+Day 19 #100DaysOfCode 
+
+Continue researching and applying for jobs, ended my day at a VirtualCoffee chat!
+
+Day 18 #100DaysOfCode
+
+Did a lot of job searching today!
+
+Day 17 #100DaysOfCode 
+
+Started reading "Programming -- Principles and Practice Using C++, By Bjarne Stroustrup" to challenge myself, by reading about a new language and building a better opinion about languages. Attended a VirtualCoffee Event!
+
 Day 1 #100DaysOfCode 
 
 https://youtu.be/v5Q4egnlsvw
