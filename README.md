@@ -2,6 +2,42 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 30 #100DaysOfCode 
+
+Did a lot of research on the importance of testing!
+
+Day 29 #100DaysOfCode 
+
+Started learning about Testing with Cypress, interesting stuff, looking forward to creating a Cypress project!
+
+Day 28 #100DaysOfCode 
+
+Another day of messaging people on LinkedIn, continued working on a side project!
+
+Day 27 #100DaysOfCode 
+
+I messaged some people on LinkedIn, and did some work on my project.
+
+Day 26 #100DaysOfCode 
+
+Updated my resume and Github projects. Decided to start working on a project I created a couple of years ago. Going to add some new parts!
+
+Day 25 #100DaysOfCode #leetcode
+
+Continued working on LeetCode problems, it can get super confusing but also super rewarding as I progress!
+
+Day 24 #100DaysOfCode 
+
+Read about recursion, and sliding window algorithm, which I found confusing but interesting and love to see all the problems it could solve, looking forward to learning more about sliding window algorithm!
+
+Day 23 #100DaysOfCode 
+
+I did some LeetCode to improve my problem-solving skills. Ended the day by going to an @ADPList meeting it was great to talk to a lead developer about what I should be working on and have a better sense of direction!
+
+Day 22 #100DaysOfCode 
+
+Went to a VirtualCoffee morning chat event, did some LeetCode to improve my problem-solving skills. Ended the day by going to a @torontojs event about React Animation, it was really cool!
+
 Day 21 #100DaysOfCode 
 
 Watched @dan_abramov video, it was very interesting and cool to see what happens behind the scenes!
