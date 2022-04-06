@@ -2,6 +2,14 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 32 #100DaysOfCode 
+
+Watched some of @YDKJS videos on YouTube, it's great to hear other people's opinions on JavaScript!
+
+Day 31 #100DaysOfCode 
+
+Went to a @torontojs virtual event, it was amazing to hear @sinelanguage speak about being a developer for 20 years, he was very transparent and honest. It was one of the best tech talks I have ever been to!
+
 Day 30 #100DaysOfCode 
 
 Did a lot of research on the importance of testing!
