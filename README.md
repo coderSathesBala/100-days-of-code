@@ -2,6 +2,11 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 33 #100DaysOfCode 
+
+Started 'JavaScript: The Advanced Concepts' course by @AndreiNeagoie on @udemy in order to gain a better understanding of what happens behind the scenes in JavaScript! Looking forward to gaining a better understanding!
+
+
 Day 32 #100DaysOfCode 
 
 Watched some of @YDKJS videos on YouTube, it's great to hear other people's opinions on JavaScript!
