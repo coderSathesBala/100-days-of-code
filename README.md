@@ -2,6 +2,11 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 34 #100DaysOfCode 
+
+Continued taking an Advanced Concepts JavaScript course. I learned about the JavaScript Engine and enjoyed learning about the Abstract Syntax Tree. 
+Found this cool article about it: https://www.twilio.com/blog/abstract-syntax-trees
+
 Day 33 #100DaysOfCode 
 
 Started 'JavaScript: The Advanced Concepts' course by @AndreiNeagoie on @udemy in order to gain a better understanding of what happens behind the scenes in JavaScript! Looking forward to gaining a better understanding!
