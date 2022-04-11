@@ -2,6 +2,10 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 35 #100DaysOfCode 
+
+Continued doing 'JavaScript: The Advanced Concepts' course, and learned about the call stack, memory heaps, and garbage collection. How JavaScript works behind the scenes is interesting and is making me want to learn other languages too.
+
 Day 34 #100DaysOfCode 
 
 Continued taking an Advanced Concepts JavaScript course. I learned about the JavaScript Engine and enjoyed learning about the Abstract Syntax Tree. 
