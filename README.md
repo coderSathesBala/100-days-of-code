@@ -2,6 +2,10 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 36 #100DaysOfCode 
+
+Went to a @TechTO virtual event it was awesome, I met a lot of new people and got a lot of connections on Linkedin. I wish they had these events more often!
+
 Day 35 #100DaysOfCode 
 
 Continued doing 'JavaScript: The Advanced Concepts' course, and learned about the call stack, memory heaps, and garbage collection. How JavaScript works behind the scenes is interesting and is making me want to learn other languages too.
