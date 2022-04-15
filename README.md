@@ -2,6 +2,10 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 37 #100DaysOfCode 
+
+Went to a @VirtualCoffeeIO event, it was cool to see senior developers dealing with similar problems that I'm dealing with. Ended the day off at a Toastmasters @torontojs event, it was really cool to see people doing speeches for the first time!
+
 Day 36 #100DaysOfCode 
 
 Went to a @TechTO virtual event it was awesome, I met a lot of new people and got a lot of connections on Linkedin. I wish they had these events more often!
