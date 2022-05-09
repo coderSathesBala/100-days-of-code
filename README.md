@@ -2,6 +2,9 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 38 #100DaysOfCode 
+Did some networking on LinkedIn, and also did a lot of research trying to figure out the next project I would like to create!
+
 Day 37 #100DaysOfCode 
 
 Went to a @VirtualCoffeeIO event, it was cool to see senior developers dealing with similar problems that I'm dealing with. Ended the day off at a Toastmasters @torontojs event, it was really cool to see people doing speeches for the first time!
