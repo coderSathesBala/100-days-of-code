@@ -2,6 +2,13 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 39 #100DaysOfCode 
+
+Networked on LinkedIn
+Watched this video by @VirtualCoffeeIO
+It was cool to learn about how more experienced people deal with problem-solving and what they do when they are stuck.
+Ended the day watching Udemy videos on JavaScript
+
 Day 38 #100DaysOfCode 
 Did some networking on LinkedIn, and also did a lot of research trying to figure out the next project I would like to create!
 
