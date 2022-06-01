@@ -2,6 +2,10 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 40 #100DaysOfCode 
+
+Learned about types in JavaScript, and Modules. JavaScript can get interesting and confusing at the same time, I would love to learn TypeScript in the future because it has static typing.
+
 Day 39 #100DaysOfCode 
 
 Networked on LinkedIn
