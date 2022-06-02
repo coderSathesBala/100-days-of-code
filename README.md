@@ -2,6 +2,10 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 42 #100DaysOfCode 
+
+Learned a lot about how data flows in Redux, it was cool to understand how things work. I'm starting to like Redux!
+
 Day 41 #100DaysOfCode 
 
 Learned some Redux in order to do a take-home test. It's cool to find out different ways to get things done!
