@@ -2,6 +2,10 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 44 #100DaysOfCode 
+
+Continued learning about Redux thunk, I feel like I have an understanding of how actions, reducers, and stores work in Redux but I can't figure out how to connect to an API using thunk.
+
 Day 43 #100DaysOfCode 
 
 Learned about data fetching and middleware. Looking forward to learning about redux-thunk, I do see a learning curve but it does seem interesting!
