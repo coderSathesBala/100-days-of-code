@@ -4,6 +4,10 @@ This is my space to keep track of my 100 days of code challenge!
 
 Day 44 #100DaysOfCode 
 
+Bought the book Programming TypeScript by Boris Cherny. It feels good to gain a better opinion about TypeScript & JavaScript by reading this book. I plan on reading a little bit of this book daily, looking forward to it!
+
+Day 44 #100DaysOfCode 
+
 Continued learning about Redux thunk, I feel like I have an understanding of how actions, reducers, and stores work in Redux but I can't figure out how to connect to an API using thunk.
 
 Day 43 #100DaysOfCode 
