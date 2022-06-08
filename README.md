@@ -2,7 +2,11 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
-Day 44 #100DaysOfCode 
+Day 46 #100DaysOfCode 
+
+Went to an event called TypeScript Tuesdays by Virtual Coffee, it was really cool to see experienced developers work and learn on something that I'm studying!
+
+Day 45 #100DaysOfCode 
 
 Bought the book Programming TypeScript by Boris Cherny. It feels good to gain a better opinion about TypeScript & JavaScript by reading this book. I plan on reading a little bit of this book daily, looking forward to it!
 
