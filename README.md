@@ -2,6 +2,10 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 47 #100DaysOfCode 
+
+Decided to go to TypeScript Tuesday by Virtual Cofee again, it was nice to see other people work on code!
+
 Day 46 #100DaysOfCode 
 
 Went to an event called TypeScript Tuesdays by Virtual Coffee, it was really cool to see experienced developers work and learn on something that I'm studying!
