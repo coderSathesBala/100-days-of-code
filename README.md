@@ -2,6 +2,14 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 49 #100DaysOfCode 
+
+Gained a better understanding of how the JavaScript Engine works. I would love to get into more detail and understand which bytecode gets sent to the compiler. This article helped a lot! https://www.freecodecamp.org/news/javascript-under-the-hood-v8/
+
+Day 48 #100DaysOfCode 
+
+Read a little bit about TypeScript and how the JavaScript engine works! I need to read some more to get a better understanding!
+
 Day 47 #100DaysOfCode 
 
 Decided to go to TypeScript Tuesday by Virtual Cofee again, it was nice to see other people work on code!
