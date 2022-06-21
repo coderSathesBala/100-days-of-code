@@ -2,6 +2,10 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 50 #100DaysOfCode 
+
+Went to TypeScript Tuesday by VirtualCoffee, it's great to see experienced developers learn. Read the book Programming TypeScript, this book is helping me gain an opinion about JavaScript by showing me the flaws that it has! Page 10/300
+
 Day 49 #100DaysOfCode 
 
 Gained a better understanding of how the JavaScript Engine works. I would love to get into more detail and understand which bytecode gets sent to the compiler. This article helped a lot! https://www.freecodecamp.org/news/javascript-under-the-hood-v8/
