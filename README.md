@@ -2,6 +2,12 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 51 #100DaysOfCode 
+
+✅Read Programming TypeScript, Page 20/300
+Started to learn about types & typechecking which seems very good when working on big applications!
+Going to a TorontoJS tech talks about Micro Front-Ends!
+
 Day 50 #100DaysOfCode 
 
 Went to TypeScript Tuesday by VirtualCoffee, it's great to see experienced developers learn. Read the book Programming TypeScript, this book is helping me gain an opinion about JavaScript by showing me the flaws that it has! Page 10/300
