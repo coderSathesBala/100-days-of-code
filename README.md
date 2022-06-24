@@ -2,6 +2,12 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 53 #100DaysOfCode 
+
+✅Read Programming TypeScript, Page 30/300
+
+Learned about Index Signatures!
+
 Day 52 #100DaysOfCode 
 
 ✅Read Programming TypeScript, Page 25/300
