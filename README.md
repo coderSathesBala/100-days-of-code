@@ -2,6 +2,30 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 60 #100DaysOfCode
+
+Worked on Interactive Portfolio, added more images.
+
+Day 59 #100DaysOfCode 
+
+Worked on Interactive Portfolio, added collision detection.
+
+Day 58 #100DaysOfCode 
+
+Worked on Interactive Portfolio, created moving platforms.
+
+Day 57 #100DaysOfCode 
+
+Worked on Interactive Portfolio, created platforms.
+
+Day 56 #100DaysOfCode 
+
+Worked on Interactive Portfolio, created player that moves.
+
+Day 55 #100DaysOfCode 
+
+Worked on Interactive Portfolio, created github files.
+
 Day 54 #100DaysOfCode 
 
 ✅Read Programming TypeScript, Page 35/300
