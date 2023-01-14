@@ -2,6 +2,10 @@
 
 This is my space to keep track of my 100 days of code challenge!
 
+Day 61 #100DaysOfCode
+
+Worked on Interactive Portfolio, cleaned code and started planning what pages I will be adding in the future!
+
 Day 60 #100DaysOfCode
 
 Worked on Interactive Portfolio, added more images.
